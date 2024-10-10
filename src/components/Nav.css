@@ -1,0 +1,23 @@
+.image {
+  cursor: pointer;
+  scale: 1;
+  transition: 0.5s;
+}
+.image:hover {
+  scale: 0.9;
+}
+.Logo {
+  cursor: pointer;
+  scale: 1;
+  transition: 0.5s;
+}
+.Logo:hover {
+  scale: 0.9;
+  color: rgb(214, 119, 252);
+}
+.nav {
+  transition: 0.5s;
+}
+.true {
+  color: rgb(214, 119, 252);
+}
